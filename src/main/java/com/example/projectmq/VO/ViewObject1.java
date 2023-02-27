@@ -11,7 +11,7 @@ import lombok.Data;
  */
 @Data
 public class ViewObject1 {
-    private String name;
+    private String Name;
 
     private Integer Age;
 }
